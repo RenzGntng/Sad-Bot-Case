@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282287219167']
-global.ownernomer = "6282287219167"
-global.premium = ['6282287219167']
+global.owner = ['6283144670363']
+global.ownernomer = "6283144670363"
+global.premium = ['6283144670363']
 global.packname = 'Sticker By'
-global.author = 'Sad-Bot'
+global.author = 'Renz-Bot'
 global.sessionName = 'papah'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -60,14 +60,14 @@ global.faall = fs.readFileSync('./media/image/menu.jpg')
 
 // Url
 global.mygit = 'https://github.com/FahriAdison'
-global.myyt = 'https://bit.ly/Papah-Chan'
+global.myyt = 'https://youtube.com/channel/UCYOpTOWfpGun22fv75SaoJQ'
 global.myytv = ''
 global.mygc = ""
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'SAD BOT'
-global.akulaku = 'Bot By Papah'
-global.ytname = 'YT PAPAH' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'RENZ BOT'
+global.akulaku = 'Bot By PRENZ'
+global.ytname = 'YT : RENZ BOT' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
